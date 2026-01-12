@@ -1,0 +1,1 @@
+# pattern-using-a-nested-for-loop
